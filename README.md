@@ -1,9 +1,9 @@
 This is my readme file. It tells you informative things about pancakes.
 
-The first pancake is frequently reported to be of poor quality. 
+The first pancake is frequently reported to be of poor quality.
 Users frequently report experiencing less enjoyment from the first pancake than from later pancakes.
 
-There are many competing hyptheses to explain this phenomenon.
+There are many competing hypotheses to explain this phenomenon.
 
 It is most widely accepted that the driving force behind the quality discrepancies in the first, vs later pancakes is directly related to setting an incorrect initial temperature, which is then manually adjusted between the production of the first and of all subsequent pancakes.
 
